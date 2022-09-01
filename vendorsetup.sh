@@ -1,0 +1,3 @@
+add_lunch_combo lineage_xiaomi_daisy-user
+add_lunch_combo lineage_xiaomi_daisy-userdebug
+add_lunch_combo lineage_xiaomi_daisy-eng
